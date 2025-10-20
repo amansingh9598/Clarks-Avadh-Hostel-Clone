@@ -1,0 +1,116 @@
+.logo{
+    height: 100%;
+    width: 100%;
+}
+
+.main-logo{
+    width: 200px;
+    height: 100px;
+}
+
+.btn-color{
+    background-color: goldenrod;
+    color: white;
+    width: 80%;
+}
+
+.nav-color{
+    background-color:#575757;
+}
+
+.line{
+    border-right: 1px solid white;
+}
+
+.text-color{
+    color: #d1a432;
+}
+
+.slide-img{
+    height: 550px !important;
+}
+
+.bg-gray{
+    background-color: #f2f2f2;
+    border-bottom: 1px solid black;
+}
+
+#student_info {
+    background-image: url(../images/Swimming_Pool_-_Clarks_Avadh.png);
+    height: 550px;
+    background-attachment: fixed;
+}
+
+    swiper-container {
+      width: 100%;
+      height: 100%;
+    }
+
+    swiper-slide {
+      text-align: center;
+      /* font-size: 18px; */
+      background: #444;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+.heading{
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.bg-blacks{
+    background-color: #2b2b2b;
+}
+
+.foot{
+    border-top: 1px solid gray;
+}
+
+.bottom-nav{
+    background-color: #f2f2f2;
+    border-bottom: 1px solid gray;
+}
+
+.form-container {
+      max-width: 700px;
+      margin: 50px auto;
+    }
+    label {
+      font-weight: 600;
+      color: #333;
+    }
+    .btn-submit {
+      background-color: #b57a22;
+      color: white;
+      font-weight: 500;
+      width: 100%;
+    }
+    .btn-submit:hover {
+      background-color: #a36b1e;
+      color: white;
+    }
+
+.video-container {
+      max-width: 900px;
+      margin: 60px auto;
+      background-color: #000;
+      padding: 10px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    video {
+      width: 100%;
+      border-radius: 6px;
+    }
+.nav{
+  border-bottom: 1px solid gray;
+}
